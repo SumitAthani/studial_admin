@@ -16,14 +16,11 @@ are made available to users so as to filter out unrelated content.
   
 </p>
 
-
 <h2> Technical Details: </h2>
 <ol>
-<li><h5> Flutter - Front end development </h5></li>
-<li><h5> NodeJs - Backend development </h5></li>
-<li><h5> Mongod - Database </h5></li>
+<h5> Flutter - Front end development </h5>
+<h5> NodeJs - Backend development </h5>
+<h5> Mongod - Database </h5>
 <ol>
-
-
 
 [Do check the Studial App](https://github.com/SumitAthani/Studial)
