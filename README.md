@@ -25,4 +25,4 @@ Admin app for studial
 
 
 
-[<h3>Do check the Studial App</h3>](https://github.com/SumitAthani/Studial)
+[Do check the Studial App](https://github.com/SumitAthani/Studial)
