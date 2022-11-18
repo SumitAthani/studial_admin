@@ -3,7 +3,8 @@
 Admin app for studial
 
 ### Requirement
-An essential app to verify notes for the Studial App.
+An essential app to verify notes for the Studial App. An admin app to carry out verification of notes before they
+are made available to users so as to filter out unrelated content.
 
 ### Screen Shots of the App
 <p align="start">
